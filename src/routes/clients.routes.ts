@@ -45,3 +45,4 @@ clientsRoutes.delete(
   ensureIsOwnerMiddleware,
   deleteClientController
 );
+
